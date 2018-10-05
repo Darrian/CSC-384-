@@ -1,7 +1,7 @@
 COMMENT!										 Darrian Sampson 
-														 CSC 384 
-												   Assignment #2
-													    09/19/18 ! 
+												 CSC 384 
+										            Assignment #2
+											         09/19/18 ! 
 
 .586
 
